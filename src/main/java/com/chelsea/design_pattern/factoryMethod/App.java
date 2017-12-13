@@ -1,5 +1,11 @@
 package com.chelsea.design_pattern.factoryMethod;
 
+/**
+ * 工厂方法测试类
+ * 
+ * @author shevchenko
+ *
+ */
 public class App {
 
 	public static void main(String[] args) {

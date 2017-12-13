@@ -2,6 +2,12 @@ package com.chelsea.design_pattern.builder;
 
 import java.util.List;
 
+/**
+ * 建造者模式测试类
+ * 
+ * @author shevchenko
+ *
+ */
 public class App {
 
 	public static void main(String[] args) {
