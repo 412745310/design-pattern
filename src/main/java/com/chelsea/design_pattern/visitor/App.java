@@ -4,6 +4,7 @@ import com.chelsea.design_pattern.visitor.impl.MySubject;
 import com.chelsea.design_pattern.visitor.impl.MyVisitor;
 
 /**
+ * 访问者模式测试类
  * 
  * @author shevchenko
  *
